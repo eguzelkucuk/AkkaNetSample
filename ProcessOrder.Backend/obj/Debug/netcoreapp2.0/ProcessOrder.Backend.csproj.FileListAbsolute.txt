@@ -1,0 +1,15 @@
+C:\Users\erkan.guzelkucuk\source\repos\OnlineOrderingSystem\ProcessOrder.Backend\bin\Debug\netcoreapp2.0\ProcessOrder.Backend.deps.json
+C:\Users\erkan.guzelkucuk\source\repos\OnlineOrderingSystem\ProcessOrder.Backend\bin\Debug\netcoreapp2.0\ProcessOrder.Backend.runtimeconfig.json
+C:\Users\erkan.guzelkucuk\source\repos\OnlineOrderingSystem\ProcessOrder.Backend\bin\Debug\netcoreapp2.0\ProcessOrder.Backend.runtimeconfig.dev.json
+C:\Users\erkan.guzelkucuk\source\repos\OnlineOrderingSystem\ProcessOrder.Backend\bin\Debug\netcoreapp2.0\ProcessOrder.Backend.dll
+C:\Users\erkan.guzelkucuk\source\repos\OnlineOrderingSystem\ProcessOrder.Backend\obj\Debug\netcoreapp2.0\ProcessOrder.Backend.csproj.CoreCompileInputs.cache
+C:\Users\erkan.guzelkucuk\source\repos\OnlineOrderingSystem\ProcessOrder.Backend\obj\Debug\netcoreapp2.0\ProcessOrder.Backend.AssemblyInfoInputs.cache
+C:\Users\erkan.guzelkucuk\source\repos\OnlineOrderingSystem\ProcessOrder.Backend\obj\Debug\netcoreapp2.0\ProcessOrder.Backend.AssemblyInfo.cs
+C:\Users\erkan.guzelkucuk\source\repos\OnlineOrderingSystem\ProcessOrder.Backend\obj\Debug\netcoreapp2.0\ProcessOrder.Backend.csprojResolveAssemblyReference.cache
+C:\Users\erkan.guzelkucuk\source\repos\OnlineOrderingSystem\ProcessOrder.Backend\bin\Debug\netcoreapp2.0\ProcessOrder.Backend.dll.config
+C:\Users\erkan.guzelkucuk\source\repos\OnlineOrderingSystem\ProcessOrder.Backend\bin\Debug\netcoreapp2.0\ProcessOrder.Backend.pdb
+C:\Users\erkan.guzelkucuk\source\repos\OnlineOrderingSystem\ProcessOrder.Backend\bin\Debug\netcoreapp2.0\OnlineOrdering.Common.dll
+C:\Users\erkan.guzelkucuk\source\repos\OnlineOrderingSystem\ProcessOrder.Backend\bin\Debug\netcoreapp2.0\OnlineOrdering.Common.pdb
+C:\Users\erkan.guzelkucuk\source\repos\OnlineOrderingSystem\ProcessOrder.Backend\bin\Debug\netcoreapp2.0\OnlineOrdering.Common.dll.config
+C:\Users\erkan.guzelkucuk\source\repos\OnlineOrderingSystem\ProcessOrder.Backend\obj\Debug\netcoreapp2.0\ProcessOrder.Backend.dll
+C:\Users\erkan.guzelkucuk\source\repos\OnlineOrderingSystem\ProcessOrder.Backend\obj\Debug\netcoreapp2.0\ProcessOrder.Backend.pdb
